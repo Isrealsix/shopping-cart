@@ -1,5 +1,5 @@
 import { Button } from "@material-ui/core";
-import { ICartItem } from "../model";
+import { ICartItem } from "../../model";
 import { Wrapper } from './Item.styles';
 
 type Props = {
